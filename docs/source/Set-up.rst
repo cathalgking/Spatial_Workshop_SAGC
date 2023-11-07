@@ -58,7 +58,7 @@ Please install the following R packages through RStudio. Some dependency package
 
 Downloading Workshop Data
 =========================
-Please ollow the link to instructions on **downloading data**: https://rpubs.com/CKing/Downloading_Data
+Please follow the link to instructions on **downloading data**: https://rpubs.com/CKing/Downloading_Data
 
 More information about each package can be found below.
 
