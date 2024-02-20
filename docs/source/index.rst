@@ -1,7 +1,7 @@
 Spatial Bioinformatics Workshop
 ==============================
 
--	Thursday 2nd November 2023
+-	May 2024
 -	Room 4.50, The Braggs Building, The University of Adelaide, Victoria Drive Adelaide, SA 5005 Australia.
 -     Registration: https://tinyurl.com/SAGCSingleCell
 
