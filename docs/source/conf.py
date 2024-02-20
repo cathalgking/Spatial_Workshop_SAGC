@@ -32,7 +32,7 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
-    'style_nav_header_background': 'yellow'
+    'style_nav_header_background': #ffff99
 }
 
 # -- Options for EPUB output
