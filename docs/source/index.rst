@@ -7,6 +7,14 @@ Spatial Bioinformatics Workshop
 
 This website contains all of the necessary content to carry out the 1 day SAGC Spatial Bioinformatics Workshop
 
+.. figure:: giphy_ire2.gif
+   :figwidth: 700px
+   :target: giphy_ire2.gif
+   :align: center
+
+...
+
+
 .. figure:: rat_img.png
    :figwidth: 700px
    :target: rat_img.png
