@@ -7,7 +7,7 @@ Spatial Bioinformatics Workshop
 
 This website contains all of the necessary content to carry out the 1 day SAGC Spatial Bioinformatics Workshop
 
-The course is divided into 4 main parts:
+
 
 ...
 
