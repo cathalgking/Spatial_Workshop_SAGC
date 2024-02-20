@@ -15,9 +15,9 @@ This website contains all of the necessary content to carry out the 1 day SAGC S
 ...
 
 
-.. figure:: spat5.png
+.. figure:: spat5.gif
    :figwidth: 500px
-   :target: spat5.png
+   :target: spat5.gif
    :align: center
 
 ...
