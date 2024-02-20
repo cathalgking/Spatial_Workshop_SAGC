@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'SAGC scRNA-seq'
-copyright = '2023, Cathal King'
+project = 'Spatial Bioinformatics'
+copyright = '2024, Cathal King'
 author = 'CKing'
 
 release = '0.1'
