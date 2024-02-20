@@ -1,4 +1,4 @@
-SAGC Bioinformatics Workshop - scRNA-seq
+Spatial Bioinformatics Workshop
 ==============================
 
 -	Thursday 2nd November 2023
