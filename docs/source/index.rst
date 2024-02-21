@@ -1,22 +1,19 @@
 Spatial Bioinformatics Workshop
 ==============================
 
--	May 2024
--	Venue TBD
--     Registration -->
+-	May 2024. Venue TBD
+-  Register -->
 
-This website contains all of the necessary content to carry out the 1 day SAGC Spatial Bioinformatics Workshop
-
-Content to be covered in Spatial Workshop:
+Content to be covered in this Spatial Workshop:
 
 * Introduction to Spatial bioinformatics
-   # Handling Image data
-   # Handling Raster data
-   # Handling MASK data
+   * Handling Image data
+   * Handling Raster data
+   * Handling MASK data
 * Data analysis of Spatial Transcriptomics
-   # Stereo-seq & 10x Visium
+   * Stereo-seq & 10x Visium
 * Data analysis of smFISH Spatial data
-   # 10x Xenium
+   * 10x Xenium
 
 *Stay tuned for more ...*
 ...
