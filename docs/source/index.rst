@@ -5,6 +5,7 @@ Spatial Bioinformatics Workshop
 -  Register -->
 
 Content to be covered in this Spatial Workshop:
+
 * Introduction to Spatial bioinformatics
    * Handling Image data, Raster data, MASK data etc.
 * Data analysis of Spatial Transcriptomics
