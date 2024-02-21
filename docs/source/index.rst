@@ -7,16 +7,24 @@ Spatial Bioinformatics Workshop
 
 This website contains all of the necessary content to carry out the 1 day SAGC Spatial Bioinformatics Workshop
 
-.. figure:: spat4.gif
-   :figwidth: 500px
-   :target: spat4.gif
-   :align: center
+Content to be covered in Spatial Workshop:
 
+* Introduction to Spatial bioinformatics
+   # Handling Image data
+   # Handling Raster data
+   # Handling MASK data
+* Data analysis of Spatial Transcriptomics
+   # Stereo-seq & 10x Visium
+* Data analysis of smFISH Spatial data
+   # 10x Xenium
+
+*Stay tuned for more ...*
 ...
 
 
+
 .. figure:: spat5.gif
-   :figwidth: 500px
+   :figwidth: 700px
    :target: spat5.gif
    :align: center
 
