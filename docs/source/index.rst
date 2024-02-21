@@ -13,14 +13,15 @@ Content to be covered in this Spatial Workshop:
 * Data analysis of smFISH Spatial data
    * 10x Xenium
 
-*Stay tuned for more ...*
-
 .. figure:: spat5.gif
    :figwidth: 700px
    :target: spat5.gif
    :align: center
 
 ...
+
+
+*Stay tuned for more ...*
 
 There are no strict academic prerequisites for this workshop, however, those with the following experience will benefit most.
 
