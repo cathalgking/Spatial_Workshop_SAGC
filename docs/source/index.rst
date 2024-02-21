@@ -7,18 +7,13 @@ Spatial Bioinformatics Workshop
 Content to be covered in this Spatial Workshop:
 
 * Introduction to Spatial bioinformatics
-   * Handling Image data
-   * Handling Raster data
-   * Handling MASK data
+   * Handling Image data, Raster, MASK data etc.
 * Data analysis of Spatial Transcriptomics
    * Stereo-seq & 10x Visium
 * Data analysis of smFISH Spatial data
    * 10x Xenium
 
 *Stay tuned for more ...*
-...
-
-
 
 .. figure:: spat5.gif
    :figwidth: 700px
