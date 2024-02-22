@@ -1,6 +1,6 @@
 Agenda
 =====
-Below is the agenda for the single-cell RNA-seq workshop.
+*Stay tuned for more info...*
 
 .. figure:: spat4.gif
    :figwidth: 700px
