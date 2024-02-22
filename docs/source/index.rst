@@ -4,7 +4,7 @@ Spatial Bioinformatics Workshop
 -	May 2024. Venue TBD
 -  Register -->
 
-Content to be covered in this Spatial Workshop:
+Content to be covered in this workshop:
 
 * Introduction to Spatial bioinformatics
    * Handling Image data, Raster data, MASK data etc.
