@@ -2,7 +2,7 @@ Agenda
 =====
 Below is the agenda for the single-cell RNA-seq workshop.
 
-.. figure:: Agenda_workshop_sc.png
+.. figure:: spat4.gif
    :figwidth: 700px
-   :target: agenda_wkshop.png
+   :target: spat4.gif
    :align: center
