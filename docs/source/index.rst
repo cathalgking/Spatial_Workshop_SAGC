@@ -1,4 +1,4 @@
-Spatial Bioinformatics Workshop
+Spatial Omics Bioinformatics Workshop
 ==============================
 
 -	May 8th 2024.
