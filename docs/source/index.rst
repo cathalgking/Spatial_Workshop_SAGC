@@ -1,8 +1,9 @@
 Spatial Bioinformatics Workshop
 ==============================
 
--	May 2024. Venue TBD
--  Register -->
+-	May 8th 2024.
+- Flinders City Campus, Room ...
+- Register -->
 
 Content to be covered in this workshop:
 
